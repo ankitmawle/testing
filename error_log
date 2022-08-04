@@ -1,0 +1,15 @@
+[28-Jun-2021 16:44:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home1/webbunbr/public_html/gamersbattle/index.php on line 6
+[28-Jun-2021 16:44:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home1/webbunbr/public_html/gamersbattle/index.php on line 10
+[28-Jun-2021 16:44:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home1/webbunbr/public_html/gamersbattle/index.php on line 17
+[28-Jun-2021 16:44:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home1/webbunbr/public_html/gamersbattle/index.php on line 198
+[28-Jun-2021 16:44:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/webbunbr/public_html/gamersbattle/index.php on line 275
+[28-Aug-2021 12:02:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/rootgq8v/public_html/deadstorm/index.php on line 6
+[28-Aug-2021 12:02:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/rootgq8v/public_html/deadstorm/index.php on line 10
+[28-Aug-2021 12:02:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/rootgq8v/public_html/deadstorm/index.php on line 17
+[28-Aug-2021 12:02:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/rootgq8v/public_html/deadstorm/index.php on line 198
+[28-Aug-2021 12:02:50 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home4/rootgq8v/public_html/deadstorm/index.php on line 275
+[27-Sep-2021 11:13:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/rootgq8v/public_html/Gamezoesports/index.php on line 6
+[27-Sep-2021 11:13:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/rootgq8v/public_html/Gamezoesports/index.php on line 10
+[27-Sep-2021 11:13:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/rootgq8v/public_html/Gamezoesports/index.php on line 17
+[27-Sep-2021 11:13:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/rootgq8v/public_html/Gamezoesports/index.php on line 198
+[27-Sep-2021 11:13:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home4/rootgq8v/public_html/Gamezoesports/index.php on line 275
